@@ -1,0 +1,8 @@
+-------Ticket Information-------
+
+	Name - sithum wickramasingha
+	Email - sithum@gmail.conm
+	Seat row - B
+	Seat number - 6
+	Price - £150.0
+------------------------------

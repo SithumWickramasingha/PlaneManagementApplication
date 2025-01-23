@@ -1,0 +1,8 @@
+-------Ticket Information-------
+
+	Name - dulain jayasumana
+	Email - d@gmail.com
+	Seat row - C
+	Seat number - 3
+	Price - £200.0
+------------------------------
